@@ -248,7 +248,7 @@ const users = [
         blocked: 0
     },
     {
-        u: 'daniel',
+        u: 'andrei',
         blocked: 0
     },
     {
